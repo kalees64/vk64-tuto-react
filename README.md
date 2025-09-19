@@ -11,7 +11,6 @@ Here you’ll find all the source code, examples, and snippets from my tutorials
 4. Explore the code and learn!
 5. Contribute back if you want to!
 6. Subscribe to my channel for more content!
-7. Follow me on Twitter for updates!
-8. Share this repository with your friends!
-9. Star this repository if you like it!
-10. Happy coding!
+7. Share this repository with your friends!
+8. Star this repository if you like it!
+9. Happy coding!

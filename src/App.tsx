@@ -1,9 +1,10 @@
 import { useState } from "react";
 import "./App.css";
 import onImage from "./assets/emoji-images/e1.png";
-import offImage from "./assets/emoji-images/e2.png";
+// import offImage from "./assets/emoji-images/e2.png";
 import Button from "./re-use-components/Button";
-import WhatIF from "./re-use-components/WhatIF";
+// import WhatIF from "./re-use-components/WhatIF";
+import { WhatIF } from "vk64-react";
 
 const App = () => {
   const [isBtnActive, setBtnActive] = useState<boolean>(true);
@@ -36,14 +37,6 @@ const App = () => {
           if={
             <img
               src={onImage}
-              alt="OnImage"
-              loading="lazy"
-              className="rounded"
-            />
-          }
-          else={
-            <img
-              src={offImage}
               alt="OnImage"
               loading="lazy"
               className="rounded"
